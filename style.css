@@ -1,3 +1,8 @@
 body {
   background-color: #f00;
 }
+
+div {
+  font-weight: 40px;
+  color: red;
+}
